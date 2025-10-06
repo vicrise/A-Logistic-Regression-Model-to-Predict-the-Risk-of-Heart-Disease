@@ -26,7 +26,7 @@ The model achieved an Overall Accuracy of 85% on the independent test dataset.
 #### KEY INSIGHTS
 1. High Predictive Reliability: With a balanced overall accuracy of 85%, the model showed excellent predictive capabilities.
 2. Effective Case Identification: The most important metric is the recall for the "Yes" class (83%) as a whole.  This indicates that the model was successful in identifying the great majority of patients who actually had heart disease, allowing for quicker and more effective clinical intervention.
-3. Clinical Interpretability: By using Logistic Regression, cardiologists can gain insight into which clinical characteristics—such as high cholesterol or particular types of chest pain—are responsible for the predicted risk score. This provides useful information that goes beyond a straightforward binary prediction.
+3. Clinical Interpretability: By using Logistic Regression, cardiologists can gain insight into which clinical characteristics such as high calcuim score or particular types of chest pain are responsible for the predicted risk score. This provides useful information that goes beyond a straightforward binary prediction.
 4. Area for Improvement: The necessity for ongoing improvement is highlighted by the existence of seven False Negatives, or missed actual disease cases.  Even though they are rare, reducing these serious mistakes is crucial for patient safety.
 #### RECOMMENDATIONS
 1. With an emphasis on reducing false negatives in subsequent iterations, the current model ought to be positioned as a Level 1 Clinical Decision Support Tool.
