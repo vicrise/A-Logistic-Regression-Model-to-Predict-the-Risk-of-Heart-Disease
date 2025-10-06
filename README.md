@@ -20,6 +20,8 @@ The following precise, quantifiable goals served as the project's guidelines:
 ### Key Results & Model Performance
 The model achieved an Overall Accuracy of 85% on the independent test dataset.
 
+<img width="507" height="233" alt="Logistics regression" src="https://github.com/user-attachments/assets/f836862d-fe90-4e33-97da-cc08ffbe2c98" />
+
 ### KEY INSIGHTS AND RECOMMENDATIONS
 #### KEY INSIGHTS
 1. High Predictive Reliability: With a balanced overall accuracy of 85%, the model showed excellent predictive capabilities.
